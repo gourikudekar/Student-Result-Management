@@ -1,4 +1,4 @@
-#  Student Result Management System - SQL Project
+#  Student Result Management System 
 
 ##  Description
 
